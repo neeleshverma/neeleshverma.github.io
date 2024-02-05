@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Department of Computer Science, Stony Brook University"
-date: 2022, 2023
+date: 2022-08-01
 location: "Stony Brook, NY"
 ---
 
