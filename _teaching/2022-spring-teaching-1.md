@@ -2,7 +2,7 @@
 title: "Teaching Assistant for CSE 353 (Machine Learning)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-spring-teaching-1
 venue: "Department of Computer Science, Stony Brook University"
 date: 2022-08-01
 location: "Stony Brook, NY"

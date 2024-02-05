@@ -2,7 +2,7 @@
 title: "Teaching Assistant for CSE 377 (Introduction to Medical Imaging)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2023-spring-teaching-2
 venue: "Department of Computer Science, Stony Brook University"
 date: 2023-01-15
 location: "Stony Brook, NY"
