@@ -1,7 +1,9 @@
 ---
 title: ""
-permalink: /work
+permalink: /work/about
 excerpt: "My Work Experiences"
+tags:
+  - work
 ---
 
 Carnot Technologies - Software Engineer Intern, Summer 2018
