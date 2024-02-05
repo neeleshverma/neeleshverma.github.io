@@ -5,12 +5,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+  - title: "Work Experience"
+    url: /work/
     
   - title: "CV"
     url: /cv/
     
   - title: "Personal"
     url: /personal/
+  
+  - title: "Blog Posts"
+    url: /year-archive/
