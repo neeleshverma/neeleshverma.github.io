@@ -1,5 +1,8 @@
 ---
 title: "Work Experience"
+permalink: /work
+redirect_from: 
+  - /work/
 ---
 
 Carnot Technologies - Software Engineer Intern, Summer 2018
