@@ -1,7 +1,7 @@
 ---
 title: ""
-permalink: /work/about
-excerpt: "My Work Experiences"
+permalink: /work
+excerpt: ""
 tags:
   - work
 ---
