@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.work reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <!-- * SRI International - Machine Learning Research Intern, Summer 2023 -->
   <!-- * Github University
   * Duties included: Tagging issues

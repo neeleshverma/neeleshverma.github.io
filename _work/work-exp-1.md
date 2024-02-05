@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /work
+permalink: /work/
 excerpt: ""
 tags:
   - work
