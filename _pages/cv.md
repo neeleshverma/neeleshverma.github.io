@@ -11,7 +11,7 @@ redirect_from:
 
 <style>
   .custom-margin {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
 </style>
 
