@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="row" style="text-align: center;">
+<!-- <div class="row" style="text-align: center;"> -->
+<div class="row">
   <div class="card">
-    You can also <a href="https://neeleshverma.github.io/CVs/CV_1page.pdf">download the pdf</a>  from here.
+    If the embedded pdf doesn't open/load, you can also <a href="https://neeleshverma.github.io/CVs/CV_1page.pdf">download/open the pdf</a>  from here.
   </div>
 </div>
 
