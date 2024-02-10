@@ -9,21 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-<style>
-  .custom-margin {
-    margin-bottom: 20px;
-  }
-</style>
 
 <!-- <div class="row" style="text-align: center;"> -->
-<div class="row custom-margin">
+<div class="row" style="margin-bottom: 10px;">
   <div class="card">
     If the embedded pdf doesn't open/load, you can also <a href="https://neeleshverma.github.io/CVs/CV_1page.pdf">download/open the pdf</a>  from here.
   </div>
 </div>
 
 <br>
-<div class="row custom-margin">
+<div class="row" style="margin-bottom: 10px;">
   <div class="card">
     <iframe src="https://neeleshverma.github.io/CVs/CV_1page.pdf" width="100%" height="1000"></iframe>
   </div>
