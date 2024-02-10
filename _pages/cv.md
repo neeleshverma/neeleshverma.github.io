@@ -57,4 +57,9 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-Work in Progress
+<br>
+<div class="row">
+  <div class="card">
+    <iframe src="https://neeleshverma.github.io/CVs/CV_1page.pdf" width="100%" height="1000"></iframe>
+  </div>
+</div>
