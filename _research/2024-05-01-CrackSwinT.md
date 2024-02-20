@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Swin Transformer Based Crack Detection"
 collection: research
 permalink: /research/CrackSwin-T
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'In this paper, we proposes CrackSwinT, a novel crack detection approach, which employs the Shifted window Transformer (Swin-T) architecture, integrating Swin attention blocks and skip connections within encoders and decoders for enhanced efficiency and stability.'
+date: 2024-05-01
+venue: 'IEEE TITS 2023'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+The paper introduces a new crack detection approach, CrackSwinT, leveraging the Shifted window Transformer (Swin-T) architecture for its effective multi-scale representation. CrackSwinT enhances the previous state-of-the-art CrackFormer by incorporating Swin attention blocks for increased efficiency, introducing skip connections within encoders and decoders to enhance information flow, and utilizing focal loss to handle imbalances in crack and non-crack pixel samples. Extensive experiments on three crack detection benchmarks, including CFD, Crack200, and the enhanced Crack500fix, demonstrate CrackSwinT's superior performance over previous state-of-the-art methods, achieving nearly 5% improvement in optimal dataset scale (ODS) and optimal image scale (OIS) scores on Crack500fix.
