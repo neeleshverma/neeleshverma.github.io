@@ -42,9 +42,9 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'completed_publication' %}
+        {% elsif post.collection == 'completedpublication' %}
           <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} (In Review)</p>
-        {% elsif post.collection == 'ongoing_publication' %}
+        {% elsif post.collection == 'ongoingpublication' %}
           <p>Ongoing (To be submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }})</p>
         {% elsif post.collection == 'customized' %}
           <p>{{ post.custom_remark }}</p>
