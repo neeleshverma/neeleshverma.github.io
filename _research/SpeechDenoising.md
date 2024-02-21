@@ -26,18 +26,23 @@ a:link {
 
 
 <div class="card" style="display: flex;">
-  <audio controls style="width: 50%;">
-  <p>Noisy Audio</p>
-    <source src="/mp3files/noisy1.mp4" type="audio/mp3">
-    Your browser does not support the audio tag.
-  </audio>
+  <div style="width: 50%;">
+    <p>Noisy Audio</p>
+    <audio controls style="width: 100%;">
+      <source src="/mp3files/noisy1.mp4" type="audio/mp3">
+      Your browser does not support the audio tag.
+    </audio>
+  </div>
   
-  <audio controls style="width: 50%;">
-  <p>Clean Audio</p>
-    <source src="/mp3files/clean1.mp4" type="audio/mp3">
-    Your browser does not support the audio tag.
-  </audio>
+  <div style="width: 50%;">
+    <p>Clean Audio</p>
+    <audio controls style="width: 100%;">
+      <source src="/mp3files/clean1.mp4" type="audio/mp3">
+      Your browser does not support the audio tag.
+    </audio>
+  </div>
 </div>
+
 <br>
 
 In this report, we introduce a end-to-end deep learning approach for speech enhancement, leveraging a fully convolutional neural network (FCN) to generate clean audio from noisy inputs. The training process incorporates a Feature Loss network, tasked with learning feature embeddings for audio signals. By guiding our Denoising network through perceptual losses derived from differences in feature embeddings, particularly from established sources, we evaluate our model's performance through a unique lens termed "Perceptual Feature Losses." Our findings affirm the superiority of this approach over existing techniques, validated through perceptual experiments involving human listeners, suggesting a promising avenue for speech quality enhancement and noise reduction.
