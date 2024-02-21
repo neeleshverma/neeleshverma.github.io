@@ -1,6 +1,7 @@
 ---
 title: "Shadow Removal"
 collection: research
+custom: 'true'
 custom_remark: 'Done under Prof. Dimitris Samaras'
 permalink: /research/ShadowRemoval
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
