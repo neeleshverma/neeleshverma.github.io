@@ -4,7 +4,7 @@ collection: research
 custom: 'true'
 custom_remark: 'Bachelor Thesis Project (BTP) under Prof. P Balamurugan'
 permalink: /research/SpeechDeoising
-excerpt: 'This work proposes an end-to-end deep learning methodology for speech enhancement, employing a fully convolutional neural network (FCN) guided by perceptual feature losses for generating clean audio from noisy inputs. The approach emphasizes the training of the Denoising network to preserve intricate details at multiple layers through another network, FeatureLoss Net'
+excerpt: 'This work proposes an end-to-end deep learning methodology for speech enhancement, employing a fully convolutional neural network (FCN) guided by perceptual feature losses for generating clean audio from noisy inputs. The approach emphasizes the training of the Denoising network to preserve intricate details at multiple layers through another network, FeatureLoss Net.'
 date: 2024-05-15
 venue: 'ECCV 2024'
 ---
@@ -27,11 +27,13 @@ a:link {
 
 <div class="card" style="display: flex;">
   <audio controls style="width: 50%;">
+  <p>Noisy Audio</p>
     <source src="/mp3files/noisy1.mp4" type="audio/mp3">
     Your browser does not support the audio tag.
   </audio>
   
   <audio controls style="width: 50%;">
+  <p>Clean Audio</p>
     <source src="/mp3files/clean1.mp4" type="audio/mp3">
     Your browser does not support the audio tag.
   </audio>
