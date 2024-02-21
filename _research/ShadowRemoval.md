@@ -4,9 +4,9 @@ collection: research
 custom: 'true'
 custom_remark: 'Done under Prof. Dimitris Samaras'
 permalink: /research/ShadowRemoval
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This work explores the potential of DDPM for shadow removal tasks, where preserving hidden features is crucial. We built on a existing RePaint architecture by passing shadow information in the reverse diffusion gradually.'
 date: 2022-11-01
-venue: 'Journal 1'
+venue: ''
 ---
 
 <style>
