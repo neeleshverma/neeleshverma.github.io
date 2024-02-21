@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'research' %}
-          <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} (In Review)</p>
+          <p>Error</p>
         {% elsif post.collection == 'submitted_paper' %}
           <p>Submitted to <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} (In Review)</p>
         {% elsif post.collection == 'ongoing_paper' %}
