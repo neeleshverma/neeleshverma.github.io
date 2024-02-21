@@ -1,7 +1,6 @@
 ---
 title: "Shadow Removal"
-collection: customized
-custom_remark: Work done as part of a course project
+collection: research
 permalink: /research/ShadowRemoval
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-11-01
