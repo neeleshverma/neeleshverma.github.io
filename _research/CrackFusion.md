@@ -4,7 +4,7 @@ collection: research
 custom: 'true'
 custom_remark: 'Ongoing (To be submitted to ECCV 2024)'
 permalink: /research/CrackFusion
-excerpt: 'This paper introduces a novel approach using Diffusion models to enhance crack detection by modifying the reverse diffusion process and incorporating information from the original image to generate precise crack segmentation maps. We also propose RefineNet, a model that enforces the segmentation map to have the same topological structure as the ground truth.'
+excerpt: 'The paper introduces a novel approach using diffusion models to create accurate crack segmentation maps by leveraging original image data during reverse diffusion. A "RefineNet" model then ensures the generated maps at each timestep align topologically with actual crack structures.'
 date: 2024-03-07
 venue: 'ECCV 2024'
 ---
