@@ -1,6 +1,6 @@
 ---
 title: "CrackFusion"
-collection: research
+collection: ongoing_publication
 permalink: /research/CrackFusion
 excerpt: 'In this paper, we propose CrackFusion, a Diffusion Model for Crack Segmentation, that can capture thick cracks to very fine ones.'
 date: 2024-03-07
