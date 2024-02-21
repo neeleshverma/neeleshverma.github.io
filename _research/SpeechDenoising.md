@@ -25,22 +25,24 @@ a:link {
 </style>
 
 
-<div class="card" style="display: flex;">
+<div class="card" style="display: flex; text-align: center;">
+
   <div style="width: 50%;">
-    <p>Noisy Audio</p>
+    <p style="font-size: smaller;">Noisy Audio</p>
     <audio controls style="width: 100%;">
       <source src="/mp3files/noisy1.mp4" type="audio/mp3">
       Your browser does not support the audio tag.
     </audio>
   </div>
-  
+
   <div style="width: 50%;">
-    <p>Clean Audio</p>
+    <p style="font-size: smaller;">Clean Audio</p>
     <audio controls style="width: 100%;">
       <source src="/mp3files/clean1.mp4" type="audio/mp3">
       Your browser does not support the audio tag.
     </audio>
   </div>
+
 </div>
 
 <br>
