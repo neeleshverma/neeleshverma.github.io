@@ -3,7 +3,7 @@ title: "Swin Transformer Based Crack Detection"
 collection: research
 permalink: /research/CrackSwin-T
 excerpt: 'In this paper, we proposes CrackSwinT, a novel crack detection approach, which employs the Shifted window Transformer (Swin-T) architecture, integrating Swin attention blocks and skip connections within encoders and decoders for enhanced efficiency and stability.'
-# date: 2024-01-05
+date: 2024-01-05
 venue: 'IEEE TITS 2024'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
