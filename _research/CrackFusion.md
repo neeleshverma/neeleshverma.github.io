@@ -4,7 +4,7 @@ collection: research
 custom: 'true'
 custom_remark: 'Ongoing (To be submitted to ECCV 2024)'
 permalink: /research/CrackFusion
-excerpt: 'In this paper, we propose CrackFusion, a Diffusion Model for Crack Segmentation, that can capture thick cracks to very fine ones.'
+excerpt: 'This paper introduces a novel approach using Diffusion models to enhance crack detection by modifying the reverse diffusion process and incorporating information from the original image to generate precise crack segmentation maps. We also propose RefineNet, a model that enforces the segmentation map to have the same topological structure as the ground truth.'
 date: 2024-03-07
 venue: 'ECCV 2024'
 ---
