@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-
 <style>
 a:link {
   text-decoration: none;
