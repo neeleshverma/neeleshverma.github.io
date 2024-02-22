@@ -1,6 +1,6 @@
 ---
 title: "Bypassing NSFW Gatekeepers"
-collection: research
+collection: projects
 custom: 'true'
 custom_remark: 'A class project for CSE 509'
 permalink: /projects/BypassingNSFW
