@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /publications/
+permalink: /projects/
 author_profile: true
 ---
 
@@ -11,10 +11,6 @@ a:link {
   text-decoration: none;
 }
 </style>
-<!-- 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
 
 {% include base_path %}
 
