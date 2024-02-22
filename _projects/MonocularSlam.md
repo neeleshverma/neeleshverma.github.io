@@ -1,5 +1,5 @@
 ---
-title: "Frequency based Adversarial Patch Localization"
+title: "Estimating 3D trajectory using feature-based sparse SLAM"
 collection: research
 custom: 'true'
 custom_remark: "A class project for CS 763 (Computer Vision), Spring '19"
