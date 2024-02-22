@@ -4,7 +4,7 @@ collection: research
 custom: 'true'
 custom_remark: "A class project for CS 753 (Automatic Speech Recognition), Fall '19"
 permalink: /projects/Speech2Face
-excerpt: 'The project aimed to infer a person's appearance from their voice using a deep neural network trained on YouTube videos. The network encodes speech into a face feature and then decodes it into a canonical face image.'
+excerpt: "The project aimed to infer a person's appearance from their voice using a deep neural network trained on YouTube videos. The network encodes speech into a face feature and then decodes it into a canonical face image."
 date: 2019-12-15
 venue: 'NA'
 ---
