@@ -1,23 +1,23 @@
 ---
 layout: archive
-title: "Key Projects"
-permalink: /projects/
+title: "Research"
+permalink: /publications/
 author_profile: true
 ---
+
 
 <style>
 a:link {
   text-decoration: none;
 }
 </style>
-
-<!-- {% if author.googlescholar %}
+<!-- 
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %} -->
 
 {% include base_path %}
 
-Work in Progress
-{% for post in site.projects reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
