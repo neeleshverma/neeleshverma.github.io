@@ -1,12 +1,12 @@
 ---
 title: "Bypassing NSFW Gatekeepers"
-collection: projects
+collection: research
 custom: 'true'
 custom_remark: 'A class project for CSE 509'
 permalink: /projects/BypassingNSFW
 excerpt: 'The paper introduces a novel approach using diffusion models to create accurate crack segmentation maps by leveraging original image data during reverse diffusion. A "RefineNet" model then ensures the generated maps at each timestep align topologically with actual crack structures.'
 date: 2023-12-15
-venue: ''
+venue: 'NA'
 ---
 
 <style>
