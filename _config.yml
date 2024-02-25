@@ -5,11 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin: "default"
-minimal_mistakes_skin_dark: "dark"
-logo: "/assets/brand/logo.svg"
-logo_dark: "/assets/brand/logo_dark.svg"
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Neelesh Verma"
