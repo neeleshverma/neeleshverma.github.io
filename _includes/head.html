@@ -16,25 +16,6 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css" id="theme_source">
-
-{% if site.minimal_mistakes_skin_dark %}
-  <link rel="stylesheet alternate" href="{{ '/assets/css/dark_theme.css' | relative_url }}" id="dark_theme">
-  <script>
-    let theme = sessionStorage.getItem('theme');
-    if(theme === "dark")
-    {
-      sessionStorage.setItem('theme', 'dark');
-      node1 = document.getElementById('theme_source');
-      node2 = document.getElementById('dark_theme');
-      node1.setAttribute('rel', 'stylesheet alternate'); 
-      node2.setAttribute('rel', 'stylesheet');
-    }
-    else
-    {
-      sessionStorage.setItem('theme', 'light');
-    }
-  </script>
-{% endif %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
