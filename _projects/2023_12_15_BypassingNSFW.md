@@ -7,6 +7,7 @@ permalink: /projects/BypassingNSFW
 excerpt: 'This project delves into the vulnerabilities of NSFW detectors on social media platforms. We employed a systematic black-box attack methodology, leveraging Grad-CAM-generated heatmaps, the study exposes weaknesses in existing detectors, offering insights into the robustness of content moderation systems.'
 date: 2023-12-15
 venue: 'NA'
+paperurl: 'https://neeleshverma.github.io/reports/projects/ByPassingNSFW.pdf'
 ---
 
 <style>
@@ -24,4 +25,7 @@ a:link {
 }
 </style>
 
-This project explores and exploits the content moderation filters on social media platforms. The study delves deep into the vulnerabilities of these filters, employing a systematic "black-box" attack approach. We unveil an innovative technique harnessing Grad-CAM heatmaps, which highlight key pixels crucial for image classification as NSFW or not. Armed with this knowledge, we strategically inject calculated noise into these areas, crafting "adversarial attacks" that bypass the filters' defenses. By systematically testing the attack on popular social media platforms - Bumble and Reddit, we expose the potential for misuse and raise critical questions about the effectiveness and reliability of content moderation systems.
+This project explores and exploits the content moderation filters on social media platforms. The study delves deep into the vulnerabilities of these filters, employing a systematic "black-box" attack approach. We unveil an innovative technique harnessing Grad-CAM heatmaps, which highlight key pixels crucial for image classification as NSFW or not. Armed with this knowledge, we strategically inject calculated noise into these areas, crafting "adversarial attacks" that bypass the filters' defenses. By systematically testing the attack on popular social media platforms - Bumble and Reddit, we expose the potential for misuse and raise critical questions about the effectiveness and reliability of content moderation systems.  
+
+Project Report [here](https://neeleshverma.github.io/reports/projects/ByPassingNSFW.pdf)
+Code [here](https://github.com/Ethos-lab/research-project-security-sheriffs)
