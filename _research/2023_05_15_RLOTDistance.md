@@ -7,7 +7,7 @@ permalink: /research/RLOTDistance
 excerpt: 'In this report, we introduce an algorithm for reward annotation in offline Reinforcement Learning (RL) employing the Optimal Transport (OT) strategy based on Wasserstein distance. Leveraging OT, the algorithm calculates optimal alignments between unlabeled trajectories and expert demonstrations, treating the similarity measure as a reward label.'
 date: 2023-05-15
 venue: ''
-paperurl: 'reports/research/RL_OT_Distance.pdf'
+paperurl: 'https://neeleshverma.github.io/reports/research/RL_OT_Distance.pdf'
 ---
 
 <style>

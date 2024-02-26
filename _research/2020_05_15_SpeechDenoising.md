@@ -7,7 +7,7 @@ permalink: /research/SpeechDeoising
 excerpt: 'This work proposes an end-to-end deep learning methodology for speech enhancement, employing a fully convolutional neural network (FCN) guided by perceptual feature losses for generating clean audio from noisy inputs. The approach emphasizes the training of the Denoising network to preserve intricate details at multiple layers through another network, FeatureLoss Net.'
 date: 2020-05-15
 venue: ''
-paperurl: 'reports/research/SpeechDenoising.pdf'
+paperurl: 'https://neeleshverma.github.io/reports/research/SpeechDenoising.pdf'
 ---
 
 <style>
