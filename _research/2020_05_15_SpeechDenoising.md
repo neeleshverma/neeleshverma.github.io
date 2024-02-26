@@ -52,5 +52,5 @@ In this report, we introduce a end-to-end deep learning approach for speech enha
 
 At the heart of our approach lies the training of the Denoising network, where exposure to noisy audio inputs allows it to learn over time through evaluating perceptual feature losses against corresponding clean audio. This mechanism ensures the generation of representations closely mirroring clean audio signals at various processing stages.
 
-View/Download Paper [here](https://neeleshverma.github.io/reports/research/SpeechDenoising.pdf)  
-Code [here](https://github.com/neeleshverma/Speech-Enhancement)
+**Paper** [here](https://neeleshverma.github.io/reports/research/SpeechDenoising.pdf)  
+**Code** [here](https://github.com/neeleshverma/Speech-Enhancement)
