@@ -7,6 +7,7 @@ permalink: /research/ShadowRemoval
 excerpt: 'This work explores the potential of DDPM for shadow removal tasks, where preserving hidden features is crucial. We built on a existing RePaint architecture by passing shadow information in the reverse diffusion gradually.'
 date: 2022-12-15
 venue: ''
+paperurl: 'reports/research/Shadow_Removal.pdf'
 ---
 
 <style>
