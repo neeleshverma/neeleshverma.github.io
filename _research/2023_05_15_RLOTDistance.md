@@ -31,5 +31,6 @@ Offline Reinforcement Learning (RL) confronts the challenge of requiring reward 
 
  The efficiency of our algorithm is intricately tied to the estimation of the Wasserstein distance through Sinkhorn divergence. In this paper, we worked with Imitation Q-Learning (IQL), although the framework accommodates the use of any other algorithm.
 
-[View/Download Paper](https://neeleshverma.github.io/reports/research/RL_OT_Distance.pdf)
+View/Download Paper [here](https://neeleshverma.github.io/reports/research/RL_OT_Distance.pdf)  
+
 [Code](https://github.com/neeleshverma/Offline-RL-RewardLabelling)

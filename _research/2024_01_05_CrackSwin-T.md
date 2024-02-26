@@ -27,5 +27,6 @@ a:link {
 
 The paper introduces a new crack detection approach, CrackSwinT, leveraging the Shifted window Transformer (Swin-T) architecture for its effective multi-scale representation. CrackSwinT enhances the previous state-of-the-art CrackFormer by incorporating Swin attention blocks for increased efficiency, introducing skip connections within encoders and decoders to enhance information flow, and utilizing focal loss to handle imbalances in crack and non-crack pixel samples. Extensive experiments on three crack detection benchmarks, including CFD, Crack200, and the enhanced Crack500<sub>fix</sub>, demonstrate CrackSwinT's superior performance over previous state-of-the-art methods, achieving nearly 5% improvement in optimal dataset scale (ODS) and optimal image scale (OIS) scores on Crack500<sub>fix</sub>. The novelty of CrackSwinT lies in its utilization of Swin-T architecture, specifically integrating Swin attention blocks for improved efficiency.
 
-[View/Download Paper](https://neeleshverma.github.io/reports/research/Swin_T_Crack_Detection.pdf)
+View/Download Paper [here](https://neeleshverma.github.io/reports/research/Swin_T_Crack_Detection.pdf)  
+
 Code - To be released.
