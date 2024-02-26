@@ -2,7 +2,7 @@
 title: "Estimating 3D trajectory using feature-based sparse SLAM"
 collection: research
 custom: 'true'
-custom_remark: "A class project for CS 763 (Computer Vision), Spring '19"
+custom_remark: "A class project for CS 763 (Computer Vision), Spring '19, IIT Bombay"
 permalink: /projects/MonocularSlam
 excerpt: "The presented algorithm revolves around feature-based sparse SLAM, called MonoSLAM, for recovering a camera's 3D trajectory. Key steps include feature extraction, distance-based feature matching, essential matrix estimation, pose estimation, world coordinate computation, and visualization. Code link [here](https://github.com/neeleshverma/Monocular-slam)"
 date: 2019-05-15

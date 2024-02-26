@@ -2,7 +2,7 @@
 title: "Bypassing NSFW Gatekeepers"
 collection: research
 custom: 'true'
-custom_remark: "A class project for CSE 509, Fall '23"
+custom_remark: "A class project for CSE 509 (Network Security) Fall '23, Stony Brook University"
 permalink: /projects/BypassingNSFW
 excerpt: 'This project delves into the vulnerabilities of NSFW detectors on social media platforms. We employed a systematic black-box attack methodology, leveraging Grad-CAM-generated heatmaps, the study exposes weaknesses in existing detectors, offering insights into the robustness of content moderation systems.'
 date: 2023-12-15
