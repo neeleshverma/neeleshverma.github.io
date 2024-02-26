@@ -29,5 +29,5 @@ In this project, the primary objective was to explore the ability to infer visua
 
 The pipeline consisted of two integral components: 1) a voice encoder, adept at processing complex speech spectrograms and predicting a low-dimensional face feature corresponding to the associated face; and 2) a face decoder, which took the predicted face feature as input and generated an image of the face in a standardized form, presenting a frontal-facing perspective with a neutral expression.  
 
-Project Report [here](https://neeleshverma.github.io/reports/projects/Facial_Feat_Extract.pdf)
+Project Report [here](https://neeleshverma.github.io/reports/projects/Facial_Feat_Extract.pdf)  
 Code [here](https://github.com/neeleshverma/Speech2Face)
