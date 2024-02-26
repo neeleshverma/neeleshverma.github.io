@@ -26,3 +26,6 @@ a:link {
 </style>
 
 The efficacy of Diffusion Denoising Probabilistic Models (DDPM) has become evident in various image generation scenarios, showcasing advantages over traditional Generative Adversarial Networks (GANs). This observation prompts exploration into the potential integration of DDPM into shadow removal tasks. Motivated by this need, we present a Diffusion-based approach for shadow removal. Shadow removal, distinct from generic image generation, poses a unique challenge as the model must retain hidden shadow features while denoising, aiming for the most contextually accurate outcome. To enhance pattern generation within shadow regions, we introduce a Decay rate based method, incorporating shadow information while maintaining the contextual relevance. The decay rate, initially high, ensures a closer blending of features to the shadow region in the early diffusion steps, gradually decreasing to yield a smoother reconstruction.
+
+[View/Download Paper](https://neeleshverma.github.io/reports/research/Shadow_Removal.pdf)
+[Code](https://github.com/neeleshverma/Shadow_Removal)
