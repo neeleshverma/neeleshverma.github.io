@@ -3,7 +3,7 @@ title: "Speech Denoising with Perceptual Feature Losses"
 collection: research
 custom: 'true'
 custom_remark: 'Bachelor Thesis Project (BTP) under Prof. P Balamurugan (IIT Bombay)'
-permalink: /research/SpeechDeoising
+permalink: /research/SpeechDenoising
 excerpt: 'This work proposes an end-to-end deep learning methodology for speech enhancement, employing a fully convolutional neural network (FCN) guided by perceptual feature losses for generating clean audio from noisy inputs. The approach emphasizes the training of the Denoising network to preserve intricate details at multiple layers through another network, FeatureLoss Net.'
 date: 2020-05-15
 venue: ''
@@ -53,5 +53,4 @@ In this report, we introduce a end-to-end deep learning approach for speech enha
 At the heart of our approach lies the training of the Denoising network, where exposure to noisy audio inputs allows it to learn over time through evaluating perceptual feature losses against corresponding clean audio. This mechanism ensures the generation of representations closely mirroring clean audio signals at various processing stages.
 
 View/Download Paper [here](https://neeleshverma.github.io/reports/research/SpeechDenoising.pdf)  
-
-[Code](https://github.com/neeleshverma/Speech-Enhancement)
+Code [here](https://github.com/neeleshverma/Speech-Enhancement)
