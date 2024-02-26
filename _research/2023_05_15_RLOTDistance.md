@@ -25,8 +25,6 @@ a:link {
 }
 </style>
 
-<br>
-
 Offline Reinforcement Learning (RL) confronts the challenge of requiring reward annotation in the dataset, a process that is often arduous and time-consuming. This report introduces an innovative algorithm aimed at addressing this hurdle by employing the Optimal Transport strategy for reward annotation in offline RL. Leveraging optimal transport, the algorithm calculates an optimal alignment between unlabeled trajectories and expert demonstrations, demonstrating superior performance in certain environments and exceptional efficacy in others. The exploration of Optimal Transport within this project revolves around assuming the availability of at least one expert demonstration. By finding optimal alignments between expert trajectories and unlabeled trajectories, the similarity measure between states becomes a reward label, facilitating the annotation of trajectories for subsequent use in any offline RL algorithm.
 
  The efficiency of our algorithm is intricately tied to the estimation of the Wasserstein distance through Sinkhorn divergence. In this paper, we worked with Imitation Q-Learning (IQL), although the framework accommodates the use of any other algorithm.
