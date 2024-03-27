@@ -1,10 +1,10 @@
 ---
-title: "Swin Transformer Based Crack Detection"
+title: "Swin Transformer-Based Crack Detection"
 collection: research
 custom: 'true'
 custom_remark: 'Submitted to IEEE TITS 2024 (In Review)'
 permalink: /research/CrackSwin-T
-excerpt: 'In this paper, we proposes CrackSwinT, a novel crack detection approach, which employs the Shifted window Transformer (Swin-T) architecture, integrating Swin attention blocks and skip connections within encoders and decoders to capture crack details at multiple levels. Additionally, we present an enhanced Crack500 dataset with refined cracks.'
+excerpt: 'In this paper, we propose CrackSwinT, a novel crack detection approach, which employs the Shifted window Transformer (Swin-T) architecture, integrating Swin attention blocks and skip connections within encoders and decoders to capture crack details at multiple levels. Additionally, we present an enhanced Crack500 dataset with refined cracks.'
 date: 2024-01-05
 venue: 'IEEE TITS'
 paperurl: 'https://neeleshverma.github.io/reports/research/Swin_T_Crack_Detection.pdf'
@@ -27,5 +27,5 @@ a:link {
 
 The paper introduces a new crack detection approach, CrackSwinT, leveraging the Shifted window Transformer (Swin-T) architecture for its effective multi-scale representation. CrackSwinT enhances the previous state-of-the-art CrackFormer by incorporating Swin attention blocks for increased efficiency, introducing skip connections within encoders and decoders to enhance information flow, and utilizing focal loss to handle imbalances in crack and non-crack pixel samples. Extensive experiments on three crack detection benchmarks, including CFD, Crack200, and the enhanced Crack500<sub>fix</sub>, demonstrate CrackSwinT's superior performance over previous state-of-the-art methods, achieving nearly 5% improvement in optimal dataset scale (ODS) and optimal image scale (OIS) scores on Crack500<sub>fix</sub>. The novelty of CrackSwinT lies in its utilization of Swin-T architecture, specifically integrating Swin attention blocks for improved efficiency.
 
-Paper (Draft version)[here](https://neeleshverma.github.io/reports/research/Swin_T_Crack_Detection.pdf)  
+Paper (Draft version) [here](https://neeleshverma.github.io/reports/research/Swin_T_Crack_Detection.pdf)  
 Code [here](https://github.com/neeleshverma/CrackSwinT/).
